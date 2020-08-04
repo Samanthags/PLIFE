@@ -38,7 +38,7 @@ p{
 /* Sections */
 
 .colored-section{
-  background-color: #ff4c68;
+  background-color: #5453f4;
   color: #fff;
 }
 
@@ -108,18 +108,18 @@ p{
 }
 
 .icon{
-  color: #ef8172;
+  color: #8a98f5;
   margin-bottom: 1rem;
 }
 
 .icon:hover{
-  color: #ff4c68;
+  color: #5453f4;
 }
 
 /* Testimonals */
 
 #testimonials{
-  background-color: #ef8172;
+  background-color: #6f75f4;
 
 }
 
@@ -138,7 +138,7 @@ p{
 
 
 #press{
-  background-color: #ef8172;
+  background-color: #6f75f4;
   padding-bottom: 3%;
 }
 
